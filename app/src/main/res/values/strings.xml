@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="app_title">RU Pizza</string>
+
+    <string name="back">←</string>
+
+    <string name="current_order">Current Order</string>
+    <string name="store_orders">Store Orders</string>
+
+    <string name="place_order">Place Order</string>
+    <string name="remove_pizza">Remove Selected Pizza</string>
+    <string name="clear_order">Clear Order</string>
+
+    <string name="store_order_details_default">Select an order to view details</string>
+    <string name="remove_order">Remove Selected Order</string>
+
+    <string name="build_your_own_toppings">Build Your Own Toppings</string>
+    <string name="add_selected_topping">Add Selected Topping</string>
+    <string name="remove_selected_topping">Remove Selected Topping</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="price_default">Price: $0.00</string>
+
+    <string name="subtotal_default">Subtotal: $0.00</string>
+    <string name="tax_default">Tax: $0.00</string>
+    <string name="total_default">Total: $0.00</string>
+</resources>
